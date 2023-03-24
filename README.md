@@ -1,5 +1,5 @@
 
-## Fetching data (JSON server) using toolKit acync Thunks and Querys
+## Fetching data (JSON server) using REDUX toolKit acync Thunks and Querys
 * Lazy fetching data (component by component)
 * Normalized data (JSON data flow)
 * Skeleton loader
